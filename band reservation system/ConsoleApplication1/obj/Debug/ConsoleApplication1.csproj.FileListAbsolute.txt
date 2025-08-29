@@ -1,0 +1,8 @@
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Lucas\Desktop\ConsoleApplication1-20230508T133428Z-001\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
